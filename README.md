@@ -23,6 +23,11 @@ Sebelum memulai penulisan kode, praktikum ini menekankan pentingnya perencanaan 
 
 ## Latihan untuk Eksplorasi Lebih Lanjut
 
+1. Menambahkan from & validator untuk validasi input.
+2. Menambaahkan fitur show/hide password dengan IconButton.
+3. Simpan sesi login ke SharedPreferences (isLoggedln + userEmail).
+4. Desain gradient + button tetap dipertahankan
+
 ![imageslat1](assets/images/imageslat1.png)
 
 ![imageslat2](assets/images/imageslat2.png)
